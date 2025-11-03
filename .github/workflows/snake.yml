@@ -14,11 +14,6 @@ on:
 
   workflow_dispatch:
 
-  # Allow permissions
-
-  permissions:
-    contents: write
-
 
   # Trigger the workflow on pushes to the main branch
 
@@ -27,6 +22,11 @@ on:
     branches:
 
       - main
+
+
+# Allow permissions
+permissions:
+  contents: write
 
 
 jobs:
