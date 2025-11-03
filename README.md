@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aumerov/aumerov/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/aumerov/aumerov/blob/output/github-snake.svg">
+    <img alt="github-snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg">
+  </picture>
+</div>
+
+
 <!--
 **aumerov/aumerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
